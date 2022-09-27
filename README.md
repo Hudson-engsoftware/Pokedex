@@ -34,4 +34,9 @@ Para a obter as informações de nome e tipo do Pokémon foi utilizada a API,
   </div>
 
 
+## Projeto Finalizado :
+
+
+![image](https://user-images.githubusercontent.com/57200355/192403931-4b198954-3e6a-48db-aa79-26e81f4266b4.png)
+
 
